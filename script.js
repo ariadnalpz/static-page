@@ -1,3 +1,3 @@
 function mostrarMensaje() {
-    alert("¡Bienvenido a la Landing Page! Este es un ejemplo interactivo.");
+    alert("¡Hola! Gracias por visitar. Este es un ejemplo interactivo básico.");
 }
