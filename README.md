@@ -10,9 +10,9 @@ Además, se configuró un flujo de integración continua (CI/CD) para que se act
 
 Para poder usar o probar esta página necesitas:
 
-- Un navegador web (Chrome, Firefox, Edge, etc.).
+- Un navegador web.
 - Tener Git instalado en tu computadora.
-- Una cuenta en GitHub (para subir tus propios cambios si quieres).
+- Una cuenta en GitHub (para subir tus propios cambios).
 
 ---
 
@@ -21,13 +21,13 @@ Para poder usar o probar esta página necesitas:
 1. Clona el repositorio desde la terminal:
 
 ```bash
-git clone https://github.com/usuario/mi-landing-page.git
+git clone https://github.com/ariadnalpz/static-page
 ```
 
 2. Entra a la carpeta del proyecto:
 
 ```bash
-cd mi-landing-page
+cd static-page
 ```
 
 3. Abre el archivo `index.html` en tu navegador favorito para ver la página funcionando.
