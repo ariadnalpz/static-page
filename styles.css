@@ -10,27 +10,20 @@ header {
     background-color: #ff4da6; 
     color: #1c1c1c;
     text-align: center;
-    padding: 2rem;
+    padding: 2.5rem 1rem;
 }
 
 main {
     max-width: 850px;
-    margin: 2rem auto;
+    margin: 3rem auto;
     padding: 0 2rem;
     background-color: #2a2a2a;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
-section {
-    padding: 2rem;
-    margin-top: 2rem;
-    background-color: #383838;
-    border-radius: 8px;
-}
-
 button {
-    background-color: #ff66b2; 
+    background-color: #ff66b2; /* rosa más suave */
     color: white;
     border: none;
     padding: 0.6rem 1.2rem;

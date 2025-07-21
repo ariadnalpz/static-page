@@ -55,7 +55,7 @@ Con eso, GitHub Pages actualizará automáticamente tu sitio.
 
 Cada vez que haces push a `main`, el sitio se actualiza en línea automáticamente.  
 Puedes verlo aquí:  
-🔗 [https://ariadnalpz.github.io/static-page](https://ariadnalpz.github.io/static-page)
+🔗 [https://ariadnalpz.github.io/static-page/](https://ariadnalpz.github.io/static-page/)
 
 ---
 
