@@ -7,23 +7,23 @@ body {
 }
 
 header {
-    background-color: #ff4da6; /* rosa fuerte */
+    background-color: #ff4da6; 
     color: #1c1c1c;
     text-align: center;
-    padding: 2.5rem 1rem;
+    padding: 2rem;
 }
 
 main {
     max-width: 850px;
-    margin: 3rem auto;
-    padding: 0 1.5rem;
+    margin: 2rem auto;
+    padding: 0 1rem;
     background-color: #2a2a2a;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
 button {
-    background-color: #ff66b2; /* rosa más suave */
+    background-color: #ff66b2; 
     color: white;
     border: none;
     padding: 0.6rem 1.2rem;
